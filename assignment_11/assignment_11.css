@@ -1,0 +1,38 @@
+.mfs{
+    color: white;
+    background-color:rgb(252, 9, 130) ;
+    line-height: 2cm;
+    text-align: center;
+    font-size:xx-large large;
+    font-family: 'Grandstander', cursive;
+}
+.sm p{
+    letter-spacing: 1mm;
+    word-spacing: 2mm;
+    font-family: fantasy;
+}
+.sm1{
+    color: rgb(252, 9, 130);
+}
+.ca1{
+    color:rgb(54, 115, 228);
+    text-align: right;
+    text-decoration: overline;
+}
+.ca2{
+    word-spacing: 10px;
+    font-family: 'Grandstander', cursive;
+}
+.im1{
+    color: coral;
+    background-color: cornflowerblue;
+    text-decoration: underline;
+    text-align: center;
+    
+}.im2{
+    text-decoration: line-through;
+}
+.imcasm{
+    unicode-bidi: bidi-override;
+    direction: rtl;
+}
