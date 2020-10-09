@@ -1,0 +1,20 @@
+body{
+    background-color: greenyellow;
+    font-weight: bold;
+    border-color: turquoise;
+    border-width: 15px;
+    border-style: groove;
+    text-align: center;
+}
+hr{
+    color: green;
+    border-color: green;
+    border-width: 15px;
+    border-style: double;
+}
+img{
+    border-color: palevioletred;
+    border-width: 15px;
+    border-style: dashed;
+    border-radius: 10px;
+}
