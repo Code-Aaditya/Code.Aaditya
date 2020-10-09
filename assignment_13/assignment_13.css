@@ -1,0 +1,70 @@
+body{
+    font-weight: normal;
+    font-size: large;
+    font-family: 'Piazzolla',cursive;
+    width: 1700px;
+}
+html{
+    background-color: #1BCA9B ;
+}
+h2{
+    font-size: x-large;
+    font-weight: bold;
+}
+.span{
+    font-size: x-large;
+    font-weight: bold;
+}
+.div{
+    padding: 25px;
+    border: 50px;
+    margin: 50px;
+    margin-bottom: 100px;
+    background-color: ivory;
+}
+.nav{
+    padding: 25px;
+    border: 50px;
+    margin: 50px;
+    margin-bottom: 100px;
+    background-color: ivory;
+    font-size: larger;
+    font-family: 'Piazzolla', cursive;
+    font-weight: normal;
+}
+.port{
+    font-size: xxx-large;
+    font-weight: bold;
+    font-family: 'Sansita Swashed', cursive;
+
+}
+.sect1{
+    font-size: x-large;
+    padding: 50px;
+    padding-left: 300px;
+    border: 50px;
+    margin: 50px;
+    background-image: url("My Photo.jpg");
+    height: 350px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color: ivory;
+    font-weight: normal;
+    }
+.name{
+    text-transform: uppercase;
+}
+.hello{
+    font-weight: bold;
+}
+.button{
+    color: turquoise;
+    padding: 10px;
+    padding-bottom: 15px;
+    height: 25px;
+    width: fit-content;
+    border-style: solid;
+    border-width: 3px;
+    border-color: turquoise;
+    border-radius: 4px;
+}
